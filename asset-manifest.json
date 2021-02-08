@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quinn-assignment/static/css/main.d018153c.chunk.css",
+    "main.js": "/quinn-assignment/static/js/main.fc261c58.chunk.js",
+    "main.js.map": "/quinn-assignment/static/js/main.fc261c58.chunk.js.map",
+    "runtime-main.js": "/quinn-assignment/static/js/runtime-main.feba0273.js",
+    "runtime-main.js.map": "/quinn-assignment/static/js/runtime-main.feba0273.js.map",
+    "static/css/2.93409e23.chunk.css": "/quinn-assignment/static/css/2.93409e23.chunk.css",
+    "static/js/2.cb9c6bb0.chunk.js": "/quinn-assignment/static/js/2.cb9c6bb0.chunk.js",
+    "static/js/2.cb9c6bb0.chunk.js.map": "/quinn-assignment/static/js/2.cb9c6bb0.chunk.js.map",
+    "index.html": "/quinn-assignment/index.html",
+    "static/css/2.93409e23.chunk.css.map": "/quinn-assignment/static/css/2.93409e23.chunk.css.map",
+    "static/css/main.d018153c.chunk.css.map": "/quinn-assignment/static/css/main.d018153c.chunk.css.map",
+    "static/js/2.cb9c6bb0.chunk.js.LICENSE.txt": "/quinn-assignment/static/js/2.cb9c6bb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feba0273.js",
+    "static/css/2.93409e23.chunk.css",
+    "static/js/2.cb9c6bb0.chunk.js",
+    "static/css/main.d018153c.chunk.css",
+    "static/js/main.fc261c58.chunk.js"
+  ]
+}
