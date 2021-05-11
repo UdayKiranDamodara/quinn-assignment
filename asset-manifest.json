@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/quinn-assignment/static/css/main.d018153c.chunk.css",
-    "main.js": "/quinn-assignment/static/js/main.fc261c58.chunk.js",
-    "main.js.map": "/quinn-assignment/static/js/main.fc261c58.chunk.js.map",
+    "main.js": "/quinn-assignment/static/js/main.aa70204a.chunk.js",
+    "main.js.map": "/quinn-assignment/static/js/main.aa70204a.chunk.js.map",
     "runtime-main.js": "/quinn-assignment/static/js/runtime-main.feba0273.js",
     "runtime-main.js.map": "/quinn-assignment/static/js/runtime-main.feba0273.js.map",
     "static/css/2.93409e23.chunk.css": "/quinn-assignment/static/css/2.93409e23.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.93409e23.chunk.css",
     "static/js/2.cb9c6bb0.chunk.js",
     "static/css/main.d018153c.chunk.css",
-    "static/js/main.fc261c58.chunk.js"
+    "static/js/main.aa70204a.chunk.js"
   ]
 }
