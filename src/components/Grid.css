@@ -1,0 +1,31 @@
+.grid-container {
+    max-width: 1127px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    overflow: auto;
+    height: 90vh;
+}
+
+.grid-item {
+    text-align: center;
+    width: 14.2%;
+    max-width: 160px;
+    min-height: 100px;
+    /* background-color: indianred; */
+    border-bottom: 1px solid black;
+    border-right: 0.1px solid black;
+}
+
+.sticky {
+    min-height: 0;
+    background-color: grey;
+    position: fixed;
+    top: 0;
+}
+
+@media screen and (max-width: 576px){
+    .grid-item{
+        width: 14%;
+    }
+}

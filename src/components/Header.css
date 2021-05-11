@@ -1,0 +1,12 @@
+.header-container {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-item {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: greenyellow;
+}

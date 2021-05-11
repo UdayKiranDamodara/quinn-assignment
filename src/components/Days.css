@@ -1,0 +1,31 @@
+.days-container {
+    margin-right: 17px;
+    max-width: 1166px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.days-item {
+    font-weight: bold;
+    text-align: center;
+    width: 14.2%;
+    max-width: 157.64px;
+    background-color: grey;
+    border-bottom: 1px solid black;
+    border-right: 0.1px solid black;
+}
+
+@media screen and (max-width: 768px) and (orientation: landscape){
+    .days-container{
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .days-container{
+        margin-right: 0;
+    }
+    .days-item{
+        width: 14%;
+    }
+}

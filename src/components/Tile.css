@@ -1,0 +1,55 @@
+.date {
+    font-weight: bold;
+}
+.rating {
+    min-height: 15px;
+}
+
+
+.legend {
+    display: flex;
+    justify-content: center;
+    min-height: 15px;
+}
+
+.legend-item {
+    margin-left: 2px;
+    font-size: 0.8rem;
+    height: 22px;
+    width: 22px;
+    border-radius: 50%;
+    background-color: burlywood;
+}
+
+.sunday{
+    background-color: lightgray;
+}
+
+.image-height {
+    min-height: 133px;
+}
+
+.image-item {
+    width: 96%;
+    height: 133px;
+}
+
+@media screen and (max-width: 576px){
+    .image-item {
+        height: 80px;
+    }
+    .image-height {
+        min-height: 80px;
+    }
+    .legend-item {
+        margin-left: 2px;
+        font-size: 0.5rem;
+        height: 12px;
+        width: 12px;
+        border-radius: 50%;
+        background-color: burlywood;
+    }
+    .star {
+        font-size: .4em;
+    }
+}
